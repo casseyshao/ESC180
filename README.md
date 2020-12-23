@@ -8,11 +8,11 @@ This was a first year programming class that included lab assignments in Python 
 
 **Lab 3:** Part A UNIX. Part B.1. IO. Part B.2. Command Line Arguments. Part C File IO in Python. Part D List Processing (Python).
 
-**Lab 4:** State machines and classes (Python).
+**Lab 4:** State machines and classes- (Python).
 
-**Lab 5:** Python class (Python).
+**Lab 5:** Python class to be used in lab 6 (Python).
 
-**Lab 6:** (C)
+**Lab 6:** Introduction to C with Babylonian method for square roots (C). Artificial life organism, a cellular automata, that evolves according to defined rules (Python).
 
 **Lab 7:** (C)
 
