@@ -1,6 +1,6 @@
 # ESC180 Introduction to Computer Programming
 
-This was a first year programming class that included lab assignments in Python and C. The following are the lab assignments.
+This was a first year programming class that included lab assignments in Python and C. The following are the completed lab assignments.
 
 **Lab 1:** Tic Tac Toe game, two player (Python).
 
@@ -8,7 +8,7 @@ This was a first year programming class that included lab assignments in Python 
 
 **Lab 3:** Part A UNIX. Part B.1. IO. Part B.2. Command Line Arguments. Part C File IO in Python. Part D List Processing (Python).
 
-**Lab 4:** (Python)
+**Lab 4:** State machines and classes (Python).
 
 **Lab 5:** (Python)
 
