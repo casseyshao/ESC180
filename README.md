@@ -10,7 +10,7 @@ This was a first year programming class that included lab assignments in Python 
 
 **Lab 4:** State machines and classes (Python).
 
-**Lab 5:** (Python)
+**Lab 5:** Python class (Python).
 
 **Lab 6:** (C)
 
