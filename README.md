@@ -6,7 +6,7 @@ This was a first year programming class that included lab assignments in Python 
 
 **Lab 2:** Tic Tac Toe game, one player versus computer (Python).
 
-**Lab 3:** Part A was a program that prints out the first 10 fibonacci numbers. Part B. (Python)
+**Lab 3:** Part A UNIX. Part B.1. IO. Part B.2. Command Line Arguments. Part C File IO in Python. Part D List Processing (Python).
 
 **Lab 4:** (Python)
 
