@@ -63,6 +63,8 @@ while True:
 
    state = analyzeBoard(T)
 
+   printBoard(T)
+
    #check if state says O won and act accordingly and break
    #check if state says draw and act accordingly and break
    if (state == 2):
@@ -71,5 +73,3 @@ while True:
    elif (state == 3):
       print("Draw! Game over!")
       break
-
-   printBoard(T)
