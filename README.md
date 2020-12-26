@@ -20,4 +20,4 @@ This was a first year programming class that included lab assignments in Python 
 
 **Lab 9:** Linked list (C).
 
-**Lab 10:** Needed to code up answers to past exam (C).
+**Lab 10:** Required coding up answers to a past exam (C).
